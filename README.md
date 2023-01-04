@@ -10,7 +10,6 @@ on planet Earth for a healthy and sustainable development.Interested people can 
 Volunteers can login and keep a track of all ongoing events and enroll for upcoming ones by contributing their part in conserving the environment.
 They can stay signed in for regular updates on the same.The details of contact number and email id are as well mentioned.
 
-![im3](https://user-images.githubusercontent.com/109900792/186949672-981d20b1-9a6c-4e02-a608-070c10ac2747.png)
+![Screenshot 2023-01-04 225900](https://user-images.githubusercontent.com/79745506/210614540-baa02bff-c7f4-44f6-8994-8c830ef1133d.png)
 
-The link to the website is - https://thankful-beach-0c7a0dd10.1.azurestaticapps.net
-
+The link to the website is - https://red-field-066316e10.2.azurestaticapps.net/
