@@ -1,7 +1,5 @@
 # Future Ready Talent Project
 
-## Save the Green Planet
-
 ### Introduction
 The "Save the Green Planet" project is a static website developed using HTML and CSS, along with the W3 framework. The main objective of the website is to enroll a large number of volunteers working towards a common goal: protecting the greenery on planet Earth for healthy and sustainable development. Interested individuals can create accounts, log in, and collaborate on various activities to conserve the environment.
 
